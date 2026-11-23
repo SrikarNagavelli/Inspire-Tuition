@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2322 >>
+stream
+BT 0.06 0.16 0.26 rg /F2 16 Tf 48 760.0 Td (INSPIRE EDUCATIONAL INSTITUTIONS) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9 Tf 48 738.5 Td (Home Tuition Center - Opposite HMWS Water Tank, East Marredpally, Secunderabad) Tj ET
+BT 0.12 0.16 0.23 rg /F1 8 Tf 48 724.0 Td (PROTOTYPE SAMPLE STUDY RESOURCE - For Educational Preview Only) Tj ET
+0.15 0.39 0.92 RG 1 w 48 710.5 m 564 710.5 l S
+BT 0.06 0.16 0.26 rg /F2 14 Tf 48 696.5 Td (Class 12 Physics - Important Formula Sheet) Tj ET
+BT 0.12 0.16 0.23 rg /F1 10 Tf 48 677.0 Td (Formula Sheet | Electrostatics, Current Electricity, Magnetism & Optics Key Equations) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 661.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 650.0 Td (1. Electrostatics & Capacitance) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 633.5 Td (Coulomb's Law: F = \(1 / 4*pi*eps_0\) * \(q1 * q2\) / r^2) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 618.5 Td (Electric Field: E = F / q = \(1 / 4*pi*eps_0\) * q / r^2) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 603.5 Td (Gauss's Law: Electric Flux = q_enclosed / eps_0) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 588.5 Td (Parallel Plate Capacitor: C = \(eps_0 * A\) / d; Energy U = 1/2 * C * V^2) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 573.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 562.0 Td (2. Current Electricity) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 545.5 Td (Drift Velocity: v_d = \(e * E * tau\) / m | Current: I = n * e * A * v_d) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 530.5 Td (Ohm's Law: V = I * R | Resistance: R = rho * L / A) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 515.5 Td (Wheatstone Bridge Balance Condition: R1 / R2 = R3 / R4) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 500.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 489.0 Td (3. Moving Charges & Optics) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 472.5 Td (Lorentz Force: F = q\(E + v x B\) | Force on conductor: F = I * L * B * sin\(theta\)) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 457.5 Td (Mirror Formula: 1/f = 1/v + 1/u | Lens Formula: 1/f = 1/v - 1/u) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 442.5 Td (Snell's Law: n1 * sin\(i\) = n2 * sin\(r\) | De Broglie Wavelength: lambda = h / p) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 427.5 Td () Tj ET
+BT 0.45 0.50 0.58 rg /F1 8 Tf 48 30 Td (Inspire Educational Institutions - Sample Resource | Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2770
+%%EOF

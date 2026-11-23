@@ -1,0 +1,6 @@
+{
+  "name": "Inspire Educational Institutions",
+  "description": "Home tuition center in East Marredpally, Secunderabad offering personalized guidance, small-batch learning, and free demo class booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

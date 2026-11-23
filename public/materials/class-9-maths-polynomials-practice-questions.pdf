@@ -1,0 +1,60 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2386 >>
+stream
+BT 0.06 0.16 0.26 rg /F2 16 Tf 48 760.0 Td (INSPIRE EDUCATIONAL INSTITUTIONS) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9 Tf 48 738.5 Td (Home Tuition Center - Opposite HMWS Water Tank, East Marredpally, Secunderabad) Tj ET
+BT 0.12 0.16 0.23 rg /F1 8 Tf 48 724.0 Td (PROTOTYPE SAMPLE STUDY RESOURCE - For Educational Preview Only) Tj ET
+0.15 0.39 0.92 RG 1 w 48 710.5 m 564 710.5 l S
+BT 0.06 0.16 0.26 rg /F2 14 Tf 48 696.5 Td (Class 9 Mathematics - Polynomials Practice Questions) Tj ET
+BT 0.12 0.16 0.23 rg /F1 10 Tf 48 677.0 Td (Important Questions | Degree, Zeroes, Remainder Theorem & Algebraic Identities) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 661.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 650.0 Td (1. Quick Revision Notes) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 633.5 Td (Polynomial in one variable x: p\(x\) = a_n x^n + ... + a_1 x + a_0 where exponents are) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 618.5 Td (  whole numbers.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 603.5 Td (Degree of polynomial: Highest power of the variable with a non-zero coefficient.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 588.5 Td (Zero of a polynomial: Value c such that p\(c\) = 0.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 573.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 562.0 Td (2. Essential Algebraic Identities) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 545.5 Td (\(x + y\)^2 = x^2 + 2xy + y^2 | \(x - y\)^2 = x^2 - 2xy + y^2) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 530.5 Td (x^2 - y^2 = \(x + y\)\(x - y\) | \(x + a\)\(x + b\) = x^2 + \(a + b\)x + ab) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 515.5 Td (\(x + y + z\)^2 = x^2 + y^2 + z^2 + 2xy + 2yz + 2zx) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 500.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 489.0 Td (3. Practice Questions) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 472.5 Td (Q1. Find the zero of the polynomial p\(x\) = 3x - 2.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 457.5 Td (Q2. Check whether x + 2 is a factor of x^3 + 3x^2 + 5x + 6.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 442.5 Td (Q3. Evaluate 105 x 106 without multiplying directly using an identity.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 427.5 Td (Q4. Factorize: 6x^2 + 17x + 5 and 27x^3 - 8y^3.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 412.5 Td () Tj ET
+BT 0.45 0.50 0.58 rg /F1 8 Tf 48 30 Td (Inspire Educational Institutions - Sample Resource | Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2834
+%%EOF

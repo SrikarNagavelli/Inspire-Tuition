@@ -1,0 +1,35 @@
+export const galleryPhotos = [
+  {
+    src: '/assets/gallery/classroom.jpg',
+    title: 'Classroom',
+    category: 'Learning spaces',
+    alt: 'A student working at a whiteboard while two others watch at Inspire',
+    source: 'https://maps.app.goo.gl/sWx2aZPq19UQZ5MZ9',
+    isSample: false,
+  },
+  {
+    src: '/assets/inspire-study-session.jpg',
+    title: 'Guided study',
+    category: 'Teaching',
+    alt: 'Students writing in notebooks around a table during a small-group session at Inspire',
+    source: 'https://maps.app.goo.gl/wxFtnNq6Gju6DCzt6',
+    isSample: false,
+  },
+  {
+    src: '/assets/gallery/study-activities.jpg',
+    title: 'Notebook practice',
+    category: 'Study activities',
+    alt: 'Students working in notebooks while seated on an outdoor terrace at Inspire',
+    source: 'https://maps.app.goo.gl/hS3LPoZiPXGovfJW6',
+    isSample: false,
+  },
+  {
+    src: '/assets/gallery/learning-space.jpg',
+    title: 'Study materials',
+    category: 'Learning spaces',
+    alt: 'Open textbooks, papers, and a pencil case on a classroom desk',
+    credit: 'Katerina Holmes',
+    source: 'https://www.pexels.com/photo/desk-with-papers-and-textbooks-in-classroom-5905437/',
+    isSample: true,
+  },
+];

@@ -1,0 +1,65 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2915 >>
+stream
+BT 0.06 0.16 0.26 rg /F2 16 Tf 48 760.0 Td (INSPIRE EDUCATIONAL INSTITUTIONS) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9 Tf 48 738.5 Td (Home Tuition Center - Opposite HMWS Water Tank, East Marredpally, Secunderabad) Tj ET
+BT 0.12 0.16 0.23 rg /F1 8 Tf 48 724.0 Td (PROTOTYPE SAMPLE STUDY RESOURCE - For Educational Preview Only) Tj ET
+0.15 0.39 0.92 RG 1 w 48 710.5 m 564 710.5 l S
+BT 0.06 0.16 0.26 rg /F2 14 Tf 48 696.5 Td (Class 10 Mathematics - Quadratic Equations Notes) Tj ET
+BT 0.12 0.16 0.23 rg /F1 10 Tf 48 677.0 Td (Chapter-wise Notes | Standard Form, Factorization, Quadratic Formula & Discriminant) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 661.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 650.0 Td (1. Standard Form of a Quadratic Equation) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 633.5 Td (A quadratic equation in variable x is of the form ax^2 + bx + c = 0, where a, b, c) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 618.5 Td (  are real numbers and a != 0.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 603.5 Td (Examples: 2x^2 - 5x + 3 = 0 \(a=2, b=-5, c=3\); x^2 - 9 = 0 \(a=1, b=0, c=-9\).) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 588.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 577.0 Td (2. Methods of Solving Quadratic Equations) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 560.5 Td (Method A - Factorization: Split the middle term bx into two parts whose sum is b and) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 545.5 Td (  product is a*c.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 530.5 Td (Worked Example: Solve x^2 - 5x + 6 = 0 -> \(x - 2\)\(x - 3\) = 0 -> x = 2 or x = 3.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 515.5 Td (Method B - Quadratic Formula: x = \(-b +/- sqrt\(b^2 - 4ac\)\) / \(2a\).) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 500.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 489.0 Td (3. Nature of Roots via Discriminant \(D = b^2 - 4ac\)) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 472.5 Td (If D > 0: Two distinct real roots exist.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 457.5 Td (If D = 0: Two equal real roots exist \(each equal to -b / 2a\).) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 442.5 Td (If D < 0: No real roots exist.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 427.5 Td () Tj ET
+BT 0.06 0.16 0.26 rg /F2 11 Tf 48 416.0 Td (4. Quick Practice Questions) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 399.5 Td (Q1. Find the roots of 2x^2 + x - 6 = 0 by factorization.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 384.5 Td (Q2. Determine the value of k for which 2x^2 + kx + 3 = 0 has two equal real roots.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 369.5 Td (Q3. The product of two consecutive positive integers is 306. Form the quadratic) Tj ET
+BT 0.12 0.16 0.23 rg /F1 9.5 Tf 48 354.5 Td (  equation and find the integers.) Tj ET
+BT 0.12 0.16 0.23 rg /F1 6 Tf 48 339.5 Td () Tj ET
+BT 0.45 0.50 0.58 rg /F1 8 Tf 48 30 Td (Inspire Educational Institutions - Sample Resource | Page 1 of 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3363
+%%EOF
